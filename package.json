@@ -8,11 +8,15 @@
     "dev": "json-server --watch db.json | node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "lottie-react-native": "^2.5.6",
+    "lottie-react-native": "2.5.11",
     "react": "16.4.1",
     "react-native": "0.56.0",
+    "react-native-infinite-scroll-view": "^0.4.5",
     "react-native-linear-gradient": "^2.4.0",
+    "react-native-pagination": "^1.5.5",
     "react-native-router-flux": "^4.0.1",
+    "react-native-swiper": "^1.5.14",
+    "react-native-ultimate-listview": "^3.3.0",
     "react-native-vector-icons": "^5.0.0",
     "react-native-video": "^3.2.0",
     "react-navigation": "^2.11.2"
